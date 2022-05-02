@@ -1,0 +1,13 @@
+
+# Created by https://www.gitignore.io/api/django
+
+### Django ###
+*.log
+*.pot
+*.pyc
+__pycache__/
+.git
+local_settings.py
+db.sqlite3
+node_modules/
+.eslintcache
